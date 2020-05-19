@@ -1,0 +1,3 @@
+SFWR ENG 2XB3
+Yousam Asham - Project Manager, Namik Karaata - Front-end designer / Integration of Project Modules, Abdullah Abdul Maksoud - Sorting Algorithm, Jeffrey Dang - Searching Algorithm / Graph Algorithm, Mahmoud Anklis - Searching Algorithm
+By virtue of submitting this document we electronically sign and date that the work being submitted by all the individuals in the group is their exclusive work as a group and we consent to make available the application developed through SE-2XB3  project, the reports, presentations, and assignments (not including my name and student number) for future teaching purposes. 
