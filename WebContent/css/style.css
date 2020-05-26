@@ -1,0 +1,66 @@
+/* ################# Global styles ################## */
+body{
+	margin: 0p;
+	padding: 0p;
+	font-family: cursive, sans-serif;
+	background: #FFDCBE;	
+}
+
+/* ################ HTML TAG styles ################ */
+
+header{
+	width: 100%;
+	height: 7%;
+	align-content: center;
+	background: #F0FFFF;
+	padding: 2%;
+}
+
+footer{
+	width: 100%;
+	height: 7%;
+	align-content: center;
+	background: #F0FFFF;
+	padding: 2%;
+}
+
+/* ############### ID styles ############## */
+
+#welcomeTitle{
+	margin-left: 40%;
+}
+
+#mainForm{
+	align-content: center;
+    padding-left: 3%;
+    display: table;
+}
+
+#mainForm p{
+    margin-top: 3px;
+    display: table-row;
+}
+
+#mainForm label{
+    display: table-cell;
+}
+
+.dropdown{
+    margin-left: 2%;
+    display: table-cell;
+}
+
+#searchButton{
+	margin-left: 3%;
+	margin-top: 2%;
+}
+
+#displayResults{
+	margin-left: 3%;
+	margin-top: 1%;
+}
+
+#songList{
+	margin-left: 3%;
+	margin-top: 1%;
+}

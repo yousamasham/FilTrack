@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>FilTrack</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+
+
+    <body>
+
+        <header>
+            <h1 id="welcomeTitle">Welcome to FilTrack!</h1>
+        </header>
+        
+        <form action="getData" method="post" id="mainForm">
+            <p>
+            <label>This is the ... time I am searching: </label>    
+            <input type="text" id="time" name="time"><br>
+			</p>
+            
+            <p>
+            <label>Artist Name: </label>    
+            <input type="text" id="artist name" name="artistName"><br>
+			</p>
+			
+            <p>
+            <label>Keyword In Song: </label>
+            <input type="text" id="keyword in song" name="keyword"><br>
+            </p>
+
+            <p>
+            <label>Acousticness:</label>  
+            <select id="acousticness" class="dropdown" name="acousticness">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+            <p>
+            <label>Danceability:</label>    
+            <select id="danceability" class="dropdown" name="danceability">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+            <p>
+            <label>Energy:</label>
+            <select id="energy" class="dropdown" name="energy">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+            <p>
+            <label>Instrumentalness:</label>
+            <select id="instrumentalness" class="dropdown" name="instrumentalness">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+            <p>
+            <label>Liveleness:</label>      
+            <select id="liveleness" class="dropdown" name="liveleness">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+            <p>
+            <label>Loudness:</label>        
+            <select id="loudness" class="dropdown" name="loudness">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+            <p>
+            <label>Speechiness:</label>     
+            <select id="speechiness" class="dropdown" name="speechiness">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+            <p>
+            <label>Tempo:</label>           
+            <select id="tempo" class="dropdown" name="tempo">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+            <p>
+            <label>Valence:</label>         
+            <select id="valence" class="dropdown" name="valence">
+                <option>No Preference</option>
+                <option>High</option>
+                <option>Low</option>
+            </select> <br>
+            </p>
+
+			<input type="submit" id="searchButton" value="Find Songs!">
+
+        </form>
+
+        
+        <footer>
+        	FilTrack is developed by Group 2.<br>
+        	Copyright FilTrack 2020 &copy;
+        </footer>
+
+    </body>
+
+</html>
