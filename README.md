@@ -21,8 +21,7 @@ Graph Algorithm with Multiple Searches
 ## Videos
 
 How to Deploy & Configure FilTrack
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=82u8ng76lRs" frameborder="0" allowfullscreen></iframe>
+[![Deployment](https://img.youtube.com/vi/82u8ng76lRs/0.jpg)](http://www.youtube.com/watch?v=82u8ng76lRs)
 
 FilTrack Demo
 ![Demo](/FilTrack_Working_Demo.mp4)
