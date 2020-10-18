@@ -21,11 +21,12 @@ Graph Algorithm with Multiple Searches
 ## Videos
 
 How to Deploy & Configure FilTrack
+
 [![Deployment](https://img.youtube.com/vi/82u8ng76lRs/0.jpg)](http://www.youtube.com/watch?v=82u8ng76lRs)
 
 FilTrack Demo
-![Demo](/FilTrack_Working_Demo.mp4)
+[![Deployment](https://img.youtube.com/vi/2cj87IP4OkY/0.jpg)](http://www.youtube.com/watch?v=2cj87IP4OkY)
 
-## Deploment File
+## Deployment File
 
-![How to Run and Deploy FilTrack](/howToRun_DEPLOYMENT .txt)
+![How to Run and Deploy FilTrack](/howToRun_DEPLOYMENT%20.txt)
