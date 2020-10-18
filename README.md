@@ -7,7 +7,7 @@ FilTrack is the solution for finding the perfect music based on user’s mood wi
 ## Images
 
 Main Page
-![Main Page](/FilTrack Main Page.jpg)
+<img src="/Filtrack Results Page.jpg">
 
 Results Page
 ![Results Page](/FilTrack Results Page.jpg)
