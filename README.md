@@ -7,25 +7,25 @@ FilTrack is the solution for finding the perfect music based on user’s mood wi
 ## Images
 
 Main Page
-<img src="/Filtrack Results Page.jpg">
+![Main Page](/Filtrack_Main_Page.jpg)
 
 Results Page
-![Results Page](/FilTrack Results Page.jpg)
+![Results Page](/FilTrack_Results_Page.jpg)
 
 Graph Algorithm
-![Graph1](/FilTrack Graph Algorithm Suggestions.jpg)
+![Graph1](/FilTrack Graph_Algorithm_Suggestions.jpg)
 
 Graph Algorithm with Multiple Searches
-![Graph2](/FilTrack Graph Algorithm Suggestions Multiple Searches.jpg)
+![Graph2](/FilTrack_Graph_Algorithm_Suggestions_Multiple_Searches.jpg)
 
 ## Videos
 
 How to Deploy & Configure FilTrack
-![Deplo](/How_to_Run_FilTrack DEPLOYMENT.mp4)
+![Deplo](/How_to_Run_FilTrack_DEPLOYMENT.mp4)
 
 FilTrack Demo
-![Demo](/FilTrack Working Demo.mp4)
+![Demo](/FilTrack_Working_Demo.mp4)
 
 ## Deploment File
 
-![How to Run and Deploy FilTrack](/howToRun  DEPLOYMENT .txt)
+![How to Run and Deploy FilTrack](/howToRun_DEPLOYMENT .txt)
