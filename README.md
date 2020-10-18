@@ -7,13 +7,13 @@ FilTrack is the solution for finding the perfect music based on user’s mood wi
 ## Images
 
 Main Page
-![Main Page](/Filtrack_Main_Page.jpg)
+![Main Page](/FilTrack_Main_Page.jpg)
 
 Results Page
 ![Results Page](/FilTrack_Results_Page.jpg)
 
 Graph Algorithm
-![Graph1](/FilTrack Graph_Algorithm_Suggestions.jpg)
+![Graph1](/FilTrack_Graph_Algorithm_Suggestions.jpg)
 
 Graph Algorithm with Multiple Searches
 ![Graph2](/FilTrack_Graph_Algorithm_Suggestions_Multiple_Searches.jpg)
